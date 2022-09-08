@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @ATDBeni
 - 👀 I’m interested in Learn javascript and css and html
 - 🌱 I’m currently learning javascript vanila
-- 😊 MY boss  DANIELluntras
+- 😊 MY boss  @DANIELluntras
 - 📫 How to reach me email bro 
 
 <!---
