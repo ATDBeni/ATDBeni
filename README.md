@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently a student<br>👯 I’m looking to collaborate whit everyone<br>🌱 I’m currently learning JS, Angular and C# <br>💬 I'm a good boy<br>
+🔭 I'm currently a student<br>👯 I’m looking to collaborate with everyone<br>🌱 I’m currently learning JS, Angular and C# <br>💬 I'm a good boy<br>
 
 
 ## 🌐 Socials:
