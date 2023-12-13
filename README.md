@@ -3,9 +3,8 @@
 
 
 ## 🌐 Socials:
-<a href="https://twitter.com/beninenjamin" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="react-ui-kit.com" height="33" width="33" /></a><br>
+<a href="https://twitter.com/beninenjamin" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="react-ui-kit.com" height="33" width="33" /></a>
 <a href="https://www.linkedin.com/in/beniamin-atudoroae-64634326a/" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hetmann" height="33" width="33" /></a>
-<br>
 <a href="https://www.instagram.com/beni_atd/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="react-ui-kit.com" height="33" width="33" /></a>
 
 # 💻 Tech Stack:
