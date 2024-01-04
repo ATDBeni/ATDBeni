@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **what you want**
 
-- 📫 **You can find me by mailatudoroaeben123@gmail.com**
+- 📫 **You can find me by mail atudoroaeben123@gmail.com**
 
 - ⚡ **I like what I do, but I want all the time when I do something to be 100% from me, and I do it as best as I know**
 
