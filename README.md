@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://twitter.com/beninenjamin" target="_blank"><img src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1.jpg" alt="react-ui-kit.com" height="33" width="33" object-fit=cover /></a>
+<a href="https://twitter.com/beninenjamin" target="_blank"><img src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1.jpg" alt="react-ui-kit.com" height="33" width="33"/></a>
 <a href="https://www.linkedin.com/in/beniamin-atudoroae-64634326a/" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hetmann" height="33" width="33" /></a>
 <a href="https://www.instagram.com/beni_atd/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="react-ui-kit.com" height="33" width="33" /></a>
 
