@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/atdbeni" target="blank"><img src="https://img.shields.io/twitter/follow/atdbeni?logo=twitter&style=for-the-badge" alt="atdbeni" /></a> </p>
 
-- 🌱 I’m currently learning **C#,Angular**
+- 🌱 I’m currently learning **C#,Angular and more😉 **
 
 - 💬 Ask me about **what you want**
 
-- 📫 How to reach me **atudoroaeben123@gmail.com**
+- 📫 **You can find me by mailatudoroaeben123@gmail.com**
 
-- ⚡ Fun fact **I like what I do, but I want all the time when I do something to be 100% from me, and I do it as best as I know**
+- ⚡ **I like what I do, but I want all the time when I do something to be 100% from me, and I do it as best as I know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
