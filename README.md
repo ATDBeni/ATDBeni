@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atdbeni" alt="atdbeni" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/atdbeni" target="blank"><img src="https://img.shields.io/twitter/follow/atdbeni?logo=twitter&style=for-the-badge" alt="atdbeni" /></a> </p>
+<p align="left"> <a href="https://twitter.com/beninenjamin" target="blank"><img src="https://img.shields.io/twitter/follow/atdbeni?logo=twitter&style=for-the-badge" alt="atdbeni" /></a> </p>
 
 - 🌱 I’m currently learning **C#,Angular and more😉 **
 
