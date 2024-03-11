@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atdbeni&show_icons=true&locale=en" alt="atdbeni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atdbeni&" alt="atdbeni" /></p>
+<img src="https://raw.githubusercontent.com/ATDBeni/ATDBeni/output/snake.svg" alt="Snake animation" />
+
+###
